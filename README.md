@@ -111,6 +111,8 @@ Undergraduate students present higher average depression scores than graduate st
 
 ## Repository Structure
 
+## Repository Structure
+
 ```
 student-mental-health-analysis
 │
@@ -118,12 +120,14 @@ student-mental-health-analysis
 │   └── students.csv
 │
 ├── images
-│   └── mentalhealth.jpg
+│   ├── mentalhealth.jpg
+│   ├── dataset_preview.png
+│   ├── stay_analysis.png
+│   ├── japanese_analysis.png
+│   └── academic_analysis.png
 │
 ├── mental_health_analysis.ipynb
-│
 ├── queries.sql
-│
 └── README.md
 ```
 
