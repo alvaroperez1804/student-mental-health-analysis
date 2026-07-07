@@ -77,6 +77,25 @@ The analysis included:
 - Interpretation of the findings using SQL queries
 
 ---
+## Project Preview
+
+### Length of Stay Analysis
+
+![Length of Stay Analysis](images/Stay_analysis.PNG)
+
+This query analyzes how the length of stay in Japan relates to depression, social connectedness, and acculturative stress among international students.
+
+### Japanese Proficiency Analysis
+
+![Japanese Proficiency Analysis](images/Japanesse_profecency.PNG)
+
+Students with higher Japanese language proficiency tend to show lower average depression scores in this dataset.
+
+### Academic Level Analysis
+
+![Academic Level Analysis](images/academic_for_depression.PNG)
+
+Undergraduate students present higher average depression scores than graduate students in this dataset.
 
 ## Key Findings
 
