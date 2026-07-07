@@ -1,4 +1,5 @@
 # 📊 Student Mental Health Analysis
+![Mental Health](images/mentalhealth.jpg)
 
 ## Project Overview
 
